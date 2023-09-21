@@ -13,5 +13,7 @@ File with the data about the interest rates. Columns are:
        
 These last three are the 3 key rates of the European Central Bank (there is not one easy "base one").
 
+Note: BoE data start in 2010, ECB data start in 2011.
+
 ### get_BoE_ECB_rates.py
 Python script to download the above data.
