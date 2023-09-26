@@ -1,5 +1,9 @@
 # ABgroup_project - FOREX
 
+## Project Confluence space:
+**https://apedroni.atlassian.net/l/cp/nbRNdj1F**
+
+## Files description:
 ### BoE_ECB_rates.csv
 File with the data about the interest rates. Columns are:
   
